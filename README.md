@@ -1,7 +1,7 @@
 # WeatherXplorer
 
-Name - Sandhya Kumari Kushwaha
-Roll No- KRMU2541805
+Name - Abhinav Gautam
+Roll No- 2501940040
 MCA AI OR ML 
 
 
@@ -108,4 +108,5 @@ weather-app/
 - This is a fully static HTML/CSS/JS project
 - Works offline but requires internet for API calls
 - Use HTTPS server for geolocation support
+
 
